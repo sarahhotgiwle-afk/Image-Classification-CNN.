@@ -36,9 +36,16 @@ This project uses a Convolutional Neural Network (CNN) to classify images as cat
 
 \## Files
 
-\- `sara.ipynb` — Project notebook
+\ - `Image_Classification_Project.ipynb` 
+— Project notebook
 
-\- `cat\_dog\_classifier.keras` — Trained model
+\- ## Files
+
+- `Image_Classification_Project.ipynb` — Complete project notebook
+- `requirements.txt` — Required Python libraries
+- `README.md` — Project documentation
+
+The trained `cat_dog_classifier.keras` model is not included in this repository because it exceeds GitHub's browser upload size limit. — Trained model
 
 
 
